@@ -8,13 +8,12 @@ body {
   color: #EC0B43;
   font-family: Helvetica, sans-serif;
 
-  padding: 4rem;
-
   display: flex;
   justify-content: center;
   align-items: center;
 
-  flex-wrap: nowrap;
+  height: 100vh;
+  margin-top: auto;
 }
 
 h1 {
